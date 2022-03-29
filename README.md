@@ -10,7 +10,7 @@ http://ro321.com
 主站点：
 iro520.com
 	godaddy.com
-	zjapoi@126.com （tc18sz/!Q2w9o0p$）
+	zjapoi@126.com （tc18sz)
 
 git 服务器：
 https://github.com/tc18sz/iRO520.git
